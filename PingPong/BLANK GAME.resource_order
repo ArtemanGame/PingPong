@@ -1,0 +1,18 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Objects","order":1,"path":"folders/Objects.yy",},
+    {"name":"Scripts","order":2,"path":"folders/Scripts.yy",},
+    {"name":"delta","order":1,"path":"folders/Scripts/delta.yy",},
+    {"name":"Sprites","order":7,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"Ball","order":3,"path":"objects/Ball/Ball.yy",},
+    {"name":"Raketka","order":9,"path":"objects/Raketka/Raketka.yy",},
+    {"name":"Sparkle","order":10,"path":"objects/Sparkle/Sparkle.yy",},
+    {"name":"Table","order":8,"path":"objects/Table/Table.yy",},
+    {"name":"Cursor","order":3,"path":"sprites/Cursor/Cursor.yy",},
+    {"name":"Spr_Sparkle","order":4,"path":"sprites/Spr_Sparkle/Spr_Sparkle.yy",},
+    {"name":"SprRacket","order":2,"path":"sprites/SprRacket/SprRacket.yy",},
+    {"name":"SprTable","order":1,"path":"sprites/SprTable/SprTable.yy",},
+  ],
+}
